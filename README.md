@@ -2,4 +2,4 @@
 
 ### `npm install jest`
 and then 
-### `npm test`
+### `npm run test`
